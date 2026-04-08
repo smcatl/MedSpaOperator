@@ -6,17 +6,57 @@
   "redirects": [
     {
       "source": "/recommends/gohighlevel",
-      "destination": "https://www.gohighlevel.com/?fp_ref=example",
+      "destination": "https://www.gohighlevel.com/?fp_ref=stosh61",
       "permanent": false
     },
     {
-      "source": "/recommends/aweber",
-      "destination": "https://aweber.com/?id=example",
+      "source": "/recommends/birdeye",
+      "destination": "https://birdeye.com/",
       "permanent": false
     },
     {
-      "source": "/recommends/kinsta",
-      "destination": "https://kinsta.com/?kaid=example",
+      "source": "/recommends/vagaro",
+      "destination": "https://www.vagaro.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/pabau",
+      "destination": "https://pabau.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/podium",
+      "destination": "https://www.podium.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/mailchimp",
+      "destination": "https://mailchimp.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/boulevard",
+      "destination": "https://www.joinblvd.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/zenoti",
+      "destination": "https://www.zenoti.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/aesthetic-record",
+      "destination": "https://www.aestheticrecord.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/symplast",
+      "destination": "https://www.symplast.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/cherry",
+      "destination": "https://withcherry.com/",
       "permanent": false
     }
   ],
