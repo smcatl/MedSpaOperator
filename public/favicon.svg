@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#0D1F3C"/>
-  <text x="50%" y="50%" dominant-baseline="central"
-    text-anchor="middle" font-family="Arial Black, sans-serif"
-    font-weight="900" font-size="13" fill="#4DB6AC">OS</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0d0b0f"/>
+  <path d="M16 4 C 13 6, 12 9, 13 11" stroke="#d28caa" stroke-width="0.9" stroke-linecap="round" fill="none"/>
+  <path d="M16 4 C 19 6, 20 9, 19 11" stroke="#d28caa" stroke-width="0.9" stroke-linecap="round" fill="none"/>
+  <path d="M16 4 L16 11" stroke="#d28caa" stroke-width="0.9" stroke-linecap="round"/>
+  <text x="16" y="26" font-family="'Playfair Display', Georgia, serif" font-size="20" font-style="italic" font-weight="700" fill="#d28caa" text-anchor="middle">M</text>
 </svg>
