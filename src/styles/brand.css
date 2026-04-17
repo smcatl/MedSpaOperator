@@ -1,0 +1,77 @@
+/*
+ * MedSpaOperator — Dark Aesthetics
+ * Near-black + dusty rose. Premium clinical editorial elegance.
+ * Serif elegance, hairline rose rules, italic accents.
+ */
+
+.site-mark {
+  background: transparent !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+.site-mark svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 11px;
+}
+
+.ms-wordmark .nav-logo-text {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 0.005em;
+  display: inline-flex;
+  gap: 0.18em;
+  line-height: 1.05;
+}
+.ms-wordmark .logo-word-1 { color: #f0ebf2; }
+.ms-wordmark .logo-word-2 {
+  color: #d28caa;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.site-nav {
+  border-bottom: 1px solid rgba(210, 140, 170, 0.18);
+  background: rgba(13, 11, 15, 0.94);
+}
+.site-nav .nav-cta {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: 400;
+  border: 1px solid #d28caa;
+  color: #d28caa !important;
+}
+
+.hero {
+  background:
+    radial-gradient(ellipse at top right, rgba(210, 140, 170, 0.08), transparent 60%),
+    var(--brandBg);
+}
+
+.section-label {
+  color: #d28caa;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  text-transform: none;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* Hairline rose rules */
+.section-title::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #d28caa;
+  margin-top: 1rem;
+}
