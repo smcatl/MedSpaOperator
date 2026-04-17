@@ -7,7 +7,7 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "lead-reactivation",
-    "notes": "Carried over from OperatorStack — VERIFY with GHL whether the same fp_ref code can be used for promoting from medspaoperator.io. Industry standard for medspa lead reactivation and automated booking funnels."
+    "notes": "Carried over from MedSpaOperator — VERIFY with GHL whether the same fp_ref code can be used for promoting from medspaoperator.io. Industry standard for medspa lead reactivation and automated booking funnels."
   },
   {
     "slug": "birdeye",
