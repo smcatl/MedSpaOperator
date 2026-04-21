@@ -7,7 +7,7 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "lead-reactivation",
-    "notes": "Carried over from MedSpaOperator — VERIFY with GHL whether the same fp_ref code can be used for promoting from medspaoperator.io. Industry standard for medspa lead reactivation and automated booking funnels."
+    "notes": "Carried over from MedSpaOperator \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from medspaoperator.io. Industry standard for medspa lead reactivation and automated booking funnels."
   },
   {
     "slug": "birdeye",
@@ -67,23 +67,23 @@
     "network": "direct",
     "status": "pending",
     "category": "spa-management",
-    "notes": "Two-stage bounty structure — get paid for the demo even before the sale closes. Premium medspa platform. Apply: https://www.joinblvd.com/partners"
+    "notes": "Two-stage bounty structure \u2014 get paid for the demo even before the sale closes. Premium medspa platform. Apply: https://www.joinblvd.com/partners"
   },
   {
     "slug": "zenoti",
     "name": "Zenoti",
     "url": "https://www.zenoti.com/",
-    "commission": "$500–$2,000 bounty (one-time, by enterprise size)",
+    "commission": "$500\u2013$2,000 bounty (one-time, by enterprise size)",
     "network": "direct",
     "status": "pending",
     "category": "spa-management",
-    "notes": "Enterprise tier — referral fee scales with size of the medspa center. High-ticket but bounty only. Apply: https://www.zenoti.com/partners"
+    "notes": "Enterprise tier \u2014 referral fee scales with size of the medspa center. High-ticket but bounty only. Apply: https://www.zenoti.com/partners"
   },
   {
     "slug": "aesthetic-record",
     "name": "Aesthetic Record",
     "url": "https://www.aestheticrecord.com/",
-    "commission": "$500–$1,500 bounty (one-time)",
+    "commission": "$500\u2013$1,500 bounty (one-time)",
     "network": "direct",
     "status": "pending",
     "category": "medspa-emr",
@@ -93,7 +93,7 @@
     "slug": "symplast",
     "name": "Symplast",
     "url": "https://www.symplast.com/",
-    "commission": "$500–$1,000 bounty (one-time)",
+    "commission": "$500\u2013$1,000 bounty (one-time)",
     "network": "direct",
     "status": "pending",
     "category": "medspa-emr",
@@ -107,6 +107,51 @@
     "network": "direct",
     "status": "pending",
     "category": "patient-financing",
-    "notes": "Paid as prepaid digital gift card per approved practice referral. Different angle — financing not software. Apply: https://withcherry.com/partners"
+    "notes": "Paid as prepaid digital gift card per approved practice referral. Different angle \u2014 financing not software. Apply: https://withcherry.com/partners"
+  },
+  {
+    "slug": "invideo",
+    "name": "InVideo",
+    "url": "https://invideo.sjv.io/MX07zn",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Video & Content"
+  },
+  {
+    "slug": "retouch4me",
+    "name": "Retouch4me",
+    "url": "https://relu0u.pxf.io/rEGBZd",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Photo & Design"
+  },
+  {
+    "slug": "munch-studio",
+    "name": "Munch Studio",
+    "url": "https://goto.munchstudio.com/B5zEM1",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Social Media"
+  },
+  {
+    "slug": "surveysparrow",
+    "name": "SurveySparrow",
+    "url": "https://surveysparrowinc.pxf.io/zzegVO",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Customer Feedback"
+  },
+  {
+    "slug": "melio",
+    "name": "Melio",
+    "url": "https://melio.sjv.io/bkDbo9",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Payments & Billing"
   }
 ]
