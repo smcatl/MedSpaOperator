@@ -10,106 +10,6 @@
     "notes": "Carried over from MedSpaOperator \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from medspaoperator.io. Industry standard for medspa lead reactivation and automated booking funnels."
   },
   {
-    "slug": "birdeye",
-    "name": "Birdeye",
-    "url": "https://birdeye.com/",
-    "commission": "40% recurring (lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "reputation-management",
-    "notes": "One of the highest lifetime payouts for reputation management in 2026. Apply: https://birdeye.com/partners"
-  },
-  {
-    "slug": "vagaro",
-    "name": "Vagaro",
-    "url": "https://www.vagaro.com/",
-    "commission": "25% recurring (lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "spa-management",
-    "notes": "One of the most reliable lifetime programs for small-to-mid medspas. Apply: https://www.vagaro.com/affiliate"
-  },
-  {
-    "slug": "pabau",
-    "name": "Pabau",
-    "url": "https://pabau.com/",
-    "commission": "20% recurring (lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "medspa-emr",
-    "notes": "Top-rated European medspa EMR aggressively expanding in US with lifetime partner track. Apply: https://pabau.com/partners"
-  },
-  {
-    "slug": "podium",
-    "name": "Podium",
-    "url": "https://www.podium.com/",
-    "commission": "30% recurring (12-month cap)",
-    "network": "direct",
-    "status": "pending",
-    "category": "messaging-reviews",
-    "notes": "Payouts capped at first 12 months of subscription. Apply: https://www.podium.com/partners/"
-  },
-  {
-    "slug": "mailchimp",
-    "name": "Mailchimp",
-    "url": "https://mailchimp.com/",
-    "commission": "Up to 30% recurring (12-month cap)",
-    "network": "direct",
-    "status": "pending",
-    "category": "email-marketing",
-    "notes": "Commissions capped at first 12 months. Apply: https://mailchimp.com/affiliates/"
-  },
-  {
-    "slug": "boulevard",
-    "name": "Boulevard",
-    "url": "https://www.joinblvd.com/",
-    "commission": "Up to $1,500 bounty ($750 completed demo + $750 closed sale)",
-    "network": "direct",
-    "status": "pending",
-    "category": "spa-management",
-    "notes": "Two-stage bounty structure \u2014 get paid for the demo even before the sale closes. Premium medspa platform. Apply: https://www.joinblvd.com/partners"
-  },
-  {
-    "slug": "zenoti",
-    "name": "Zenoti",
-    "url": "https://www.zenoti.com/",
-    "commission": "$500\u2013$2,000 bounty (one-time, by enterprise size)",
-    "network": "direct",
-    "status": "pending",
-    "category": "spa-management",
-    "notes": "Enterprise tier \u2014 referral fee scales with size of the medspa center. High-ticket but bounty only. Apply: https://www.zenoti.com/partners"
-  },
-  {
-    "slug": "aesthetic-record",
-    "name": "Aesthetic Record",
-    "url": "https://www.aestheticrecord.com/",
-    "commission": "$500\u2013$1,500 bounty (one-time)",
-    "network": "direct",
-    "status": "pending",
-    "category": "medspa-emr",
-    "notes": "Primarily bounty-based for new clinic signups. Apply: https://www.aestheticrecord.com/partners"
-  },
-  {
-    "slug": "symplast",
-    "name": "Symplast",
-    "url": "https://www.symplast.com/",
-    "commission": "$500\u2013$1,000 bounty (one-time)",
-    "network": "direct",
-    "status": "pending",
-    "category": "medspa-emr",
-    "notes": "Performance-based one-time payment upon successful onboarding. Apply: https://www.symplast.com/partners"
-  },
-  {
-    "slug": "cherry",
-    "name": "Cherry (Patient Financing)",
-    "url": "https://withcherry.com/",
-    "commission": "Up to $1,000 bounty (prepaid digital gift card per approved practice)",
-    "network": "direct",
-    "status": "pending",
-    "category": "patient-financing",
-    "notes": "Paid as prepaid digital gift card per approved practice referral. Different angle \u2014 financing not software. Apply: https://withcherry.com/partners"
-  },
-  {
     "slug": "invideo",
     "name": "InVideo",
     "url": "https://invideo.sjv.io/MX07zn",
@@ -153,5 +53,41 @@
     "network": "impact",
     "status": "active",
     "category": "Payments & Billing"
+  },
+  {
+    "slug": "aweber",
+    "name": "AWeber",
+    "url": "https://www.aweber.com/easy-email.htm?id=560455",
+    "commission": "Up to 50% recurring (lifetime)",
+    "network": "direct",
+    "status": "active",
+    "category": "email-marketing"
+  },
+  {
+    "slug": "thrivesparrow",
+    "name": "ThriveSparrow",
+    "url": "https://thrivesparrow.sjv.io/aN54qq",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "HR & Employee Engagement"
+  },
+  {
+    "slug": "sparrowdesk",
+    "name": "SparrowDesk",
+    "url": "https://sparrowdesk.pxf.io/AgmG9J",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Support & Helpdesk"
+  },
+  {
+    "slug": "omnisend",
+    "name": "Omnisend",
+    "url": "https://your.omnisend.com/n4RkQ6",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Email Marketing"
   }
 ]
