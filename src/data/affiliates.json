@@ -121,7 +121,7 @@
     "slug": "moosend",
     "name": "Moosend",
     "url": "https://trymoo.moosend.com/68v8v144fh7a",
-    "commission": "30% lifetime",
+    "commission": "30%\u201340% recurring",
     "network": "direct",
     "status": "active",
     "category": "Email Marketing"
@@ -143,5 +143,45 @@
     "network": "direct",
     "status": "active",
     "category": "Hosting"
+  },
+  {
+    "slug": "duda",
+    "name": "Duda",
+    "url": "https://duda.sjv.io/vDQBkN",
+    "network": "impact",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "website-builder",
+    "notes": "Added 2026-06-16 via bulk affiliate import."
+  },
+  {
+    "slug": "ringplanet",
+    "name": "RingPlanet",
+    "url": "https://preferredlongdistance.pxf.io/yZj0Ay",
+    "network": "impact",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "voip-business-phone",
+    "notes": "Added 2026-06-16 via bulk affiliate import."
+  },
+  {
+    "slug": "docparser",
+    "name": "Docparser",
+    "url": "https://docparser.com/?ref=efhmj",
+    "network": "direct",
+    "commission": "referral",
+    "status": "active",
+    "category": "Document Automation",
+    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
+  },
+  {
+    "slug": "printify",
+    "name": "Printify",
+    "url": "https://try.printify.com/t9f3mafait11",
+    "network": "direct",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "print-on-demand",
+    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
   }
 ]
