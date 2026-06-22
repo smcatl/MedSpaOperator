@@ -78,7 +78,8 @@
       "category": "reviews",
       "slug": "podium-review-2026",
       "affiliateLinks": "podium — https://medspaoperator.com/recommends/podium",
-      "status": "queued"
+      "status": "published",
+      "publishedDate": "2026-06-22"
     },
     {
       "title": "Zenoti Review 2026: Enterprise Spa & Med Spa Platform",
